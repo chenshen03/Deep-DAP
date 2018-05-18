@@ -24,12 +24,12 @@ Deep-DAP模型，利用CNN模型提取图像特征，并利用数据集训练多
 
 #### 4、文件目录
 
-- **data：**AwA和CUB数据集相关的信息
-- **his：**保存训练过程中的数据
-- **imgs：**实验过程中生成的图片
-- **logs：**tensorboard的日志文件
-- **model：**训练得到的模型
-- **output：**训练过程中的输出记录
+- data：AwA和CUB数据集相关的信息
+- his：保存训练过程中的数据
+- imgs：实验过程中生成的图片
+- logs：tensorboard的日志文件
+- model：训练得到的模型
+- output：训练过程中的输出记录
 
 #### 5、实验结果
 
